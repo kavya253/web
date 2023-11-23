@@ -1,0 +1,31 @@
+div>p{
+    color: aquamarine;
+}
+div+p{
+    color: blueviolet;
+}
+div~p{
+    color: brown;
+}
+body p{
+    background-color: pink;
+}
+p::after{
+    content: "Take Care";
+}
+p::before{
+    content: "HI";
+}
+p::first-letter{
+    font-size: large;
+    color: coral;
+}
+p::first-line{
+    color: cyan;
+}
+p::selection{
+    color: crimson;
+}
+li::marker{
+    content:
+}

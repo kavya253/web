@@ -1,0 +1,16 @@
+form{
+    color:brown;
+    background-color: rgb(138, 180, 173);
+}
+.bun{
+    color: fuchsia;
+}
+#image{
+    color:chartreuse;
+}
+legend,button{
+    color: ivory;
+}
+*{
+    color: blueviolet;
+}

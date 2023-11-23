@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+}
+#black{
+    background-color: black;
+    color: white;
+}
+#white{
+    background-color: burlywood;
+    color: black;
+}
+#blue{
+    background-color: blue;
+    color: black;
+}

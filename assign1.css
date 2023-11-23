@@ -1,0 +1,25 @@
+#mainblock{
+    border: 12px solid red;
+    height: 100px;
+    display: flex;
+    background-color: black;
+}
+#logoblock
+{
+    width: 20%;
+}
+#menublock
+{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h2{
+    color: white;
+}
+a{
+    color: white;
+}
